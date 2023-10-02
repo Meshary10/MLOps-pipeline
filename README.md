@@ -49,6 +49,6 @@ $ git push
 ```
 **When you run the pipeline you be able to see the model versions and files in mlflow ui and the data versions in Object Storage Service.**
 
-![mlflow-ui](https://github.ncai.cloud/Malyami/mlflow-dvc/blob/main/mlflow-ui.png?raw=true)
+![mlflow-ui](https://github.ncai.cloud/Malyami/MLOps/blob/main/mlflow-ui.png?raw=true)
 
 **Happy coding!**
